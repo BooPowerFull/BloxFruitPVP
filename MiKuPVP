@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/BooPowerFull/BloxFruitPVP/refs/heads/main/MIKU.lua))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BooPowerFull/BloxFruitPVP/refs/heads/main/MiKu-1.lua"))()
